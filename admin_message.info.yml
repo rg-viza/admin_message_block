@@ -1,0 +1,6 @@
+name: Admin Message Block
+description: Creates a block and administration interface for the admin to send messages to users.
+package: Custom
+type: module
+version: 0.1
+core: 8.x
